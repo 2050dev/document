@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>2050.dev Blog</title>
-        <link>https://2050.github.io/blog</link>
+        <link>https://dev.2050.org/blog</link>
         <description>2050.dev Blog</description>
         <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
