@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdev_2050_org=self.webpackChunkdev_2050_org||[]).push([[477],{10:function(e){e.exports={blogPosts:[]}}}]);
