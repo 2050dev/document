@@ -46,7 +46,6 @@ module.exports = {
         dirName: 'prd/containers',
       }],
     },
-    'prd/pass',
     'prd/frontpage',
   ], 
 };
