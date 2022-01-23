@@ -18,7 +18,7 @@
 1. 激活我的PASS /activate-my-pass
 1. 管理所有用户 /admin/all-users
 1. 管理员新增用户 /admin/new-user
-1. 管理员编辑用户 /admin/edit-user
+1. 管理员编辑用户 /admin/edit-user/{用户的PASSID（后台不对PASSID做哈希）}
 1. 管理员变更用户角色 /admin/edit-user-role
 
 ### P1
