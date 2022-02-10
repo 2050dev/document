@@ -2,6 +2,7 @@ module.exports = {
   docs: [
     'introduction/getting-started',
     'prd/overview',
+    'prd/review',
     'prd/routing',
     {
       type: 'category',
